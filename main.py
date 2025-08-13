@@ -4,7 +4,7 @@ import sys
 import matplotlib.pyplot as plt
 import numpy as np
 
-n=0
+n=1
 step = float(sys.argv[1])
 target = float(sys.argv[2])
 
